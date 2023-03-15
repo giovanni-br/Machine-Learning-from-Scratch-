@@ -1,2 +1,2 @@
 # Machine-Learning-from-Scratch-
-Develloping machine learning codes without libraries in python
+Develloping machine learning codes from scratch (without libraries) in Python
